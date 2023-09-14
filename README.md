@@ -1,2 +1,0 @@
-# Project-python
-Password Manager
